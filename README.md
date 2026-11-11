@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:0891b2&height=220&section=header&text=Shubham%20Kashyap%20Jena&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20cool%20things%20with%20code&descAlignY=58&descSize=16" alt="Shubham Kashyap Jena — building cool things with code" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:0891b2&height=220&section=header&text=Shubham%20%22Berlin%22%20Kashyap%20Jena&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Discord%20alias%3A%20Berlin%20%E2%80%A2%20La%20Casa%20de%20Papel%20fan&descAlignY=58&descSize=16" alt="Shubham Berlin Kashyap Jena — La Casa de Papel fan" />
 
   <a href="https://shubhamcodez.space/"><img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/berlin-ontopxd?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
@@ -8,7 +8,7 @@
 
 ## `$ whoami`
 
-Hey, I'm **Shubham** — a coder who likes turning ideas into things people can try. I build web projects and Discord bots, and lately I've been exploring AI and machine learning through small, testable projects.
+Hey, I'm **Shubham Kashyap Jena** — **Berlin** on Discord, inspired by *La Casa de Papel*. I'm a coder who likes turning ideas into things people can try. I build web projects and Discord bots, and lately I've been exploring AI and machine learning through small, testable projects.
 
 - 🔭 Building: web experiences, Discord tools, and AI/ML prototypes
 - 🌱 Exploring: Python, machine learning, and better ways to ship projects
