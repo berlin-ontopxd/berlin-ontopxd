@@ -14,7 +14,7 @@
 
 ## About
 
-I’m **Shubham Kashyap Jena**, a web developer who enjoys turning ideas into clear, responsive digital experiences. I build front-end projects, Discord tools, and small AI/ML prototypes, with a focus on making each project useful and easy to explore.
+I’m **BERLIN**, a web developer who enjoys turning ideas into clear, responsive digital experiences. I build front-end projects, Discord tools, and small AI/ML prototypes, with a focus on making each project useful and easy to explore.
 
 - **Currently building:** web experiences and small AI/ML projects
 - **Exploring:** JavaScript, Python, and practical machine learning
